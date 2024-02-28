@@ -1,0 +1,50 @@
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        height: auto;
+    }
+
+    .nav-logo {
+        width: auto;
+        margin-bottom: 10px;
+    }
+
+    .nav-search {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .panel-options p {
+        display: block;
+        margin: 5px 0;
+    }
+
+    .box {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .navbar {
+        height: auto;
+    }
+
+    .nav-logo {
+        width: auto;
+        margin-bottom: 10px;
+    }
+
+    .nav-search {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .panel-options p {
+        display: block;
+        margin: 5px 0;
+    }
+
+    .box {
+        width: 100%;
+    }
+}
